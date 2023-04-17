@@ -1,4 +1,5 @@
 const express = require('express');
+console.log(__dirname);
 const bodyparser = require('body-parser')
 const app = express();
 console.log(__dirname)
